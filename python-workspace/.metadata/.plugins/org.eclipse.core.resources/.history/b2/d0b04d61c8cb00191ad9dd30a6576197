@@ -1,0 +1,7 @@
+from selenium import webdriver
+
+
+driver = webdriver.Chrome("E:\chromedriver.exe")
+driver.get("https://developer.twitter.com/en/docs/api-reference-index")
+
+driver.close()

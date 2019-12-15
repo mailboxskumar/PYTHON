@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python-learning/.idea/python-learning.iml" filepath="$PROJECT_DIR$/../python-learning/.idea/python-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/..//selnium-learning/../../selnium-project2/.idea/selnium-learning.iml" filepath="$PROJECT_DIR$/..//selnium-learning/../../selnium-project2/.idea/selnium-learning.iml" />
+    </modules>
+  </component>
+</project>
