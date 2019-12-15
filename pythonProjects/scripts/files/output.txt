@@ -1,3 +1,0 @@
-kget radiobearertabel
-kget Rcs
-kget Eutrancellfdd
